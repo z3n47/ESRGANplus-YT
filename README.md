@@ -1,4 +1,4 @@
-# ESRGANplus-YT – Image Super-Resolution using ESRGAN+
+# ESRGANplus-YT – Single Image Super-Resolution using ESRGAN+
 
 Implementation and experimentation with **Enhanced Super-Resolution Generative Adversarial Networks (ESRGAN)** for the task of **Single Image Super-Resolution (SISR)**.
 
